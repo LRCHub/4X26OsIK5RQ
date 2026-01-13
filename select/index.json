@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "gogobebe",
+  "base_artist": "MAMAMOO",
+  "createdAt": "2026-01-13T23:34:14.087673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "gogobebe (Rock ver.)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/01_gogobebe_(Rock_ver.)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "gogobebe",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/02_gogobebe_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "gogobebe (Inst.)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/03_gogobebe_(Inst.)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "gogobebe",
+      "artist": "VERIVERY",
+      "has_synced": true,
+      "path": "select/04_gogobebe_VERIVERY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "gogobebe [고고베베]",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/05_gogobebe_[고고베베]_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "gogobebe (Rock ver.)",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/06_gogobebe_(Rock_ver.)_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "gogobebe -Japanese ver.-",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/07_gogobebe_-Japanese_ver.-_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "gogobebe -Japanese ver.-",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/08_gogobebe_-Japanese_ver.-_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gogobebe -Japanese ver.-",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/09_gogobebe_-Japanese_ver.-_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "gogobebe -Japanese ver.-",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/10_gogobebe_-Japanese_ver.-_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "gogobebe (고고베베 (gogobebe))",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/11_gogobebe_(고고베베_(gogobebe))_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "gogobebe",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/12_gogobebe_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "gogobebe -Japanese ver.-",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/13_gogobebe_-Japanese_ver.-_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gogobebe",
+      "artist": "Mamamoo",
+      "has_synced": true,
+      "path": "select/14_Gogobebe_Mamamoo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "gogobebe",
+      "artist": "MAMAMOO",
+      "has_synced": false,
+      "path": "select/pl_01_gogobebe_MAMAMOO.txt"
+    }
+  ]
+}
